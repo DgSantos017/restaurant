@@ -2,20 +2,20 @@
 
 ### 1 - Clone esse repositorio
 https://github.com/DgSantos017/restaurant
-![img_2.png](img_2.png)
+![image](https://github.com/DgSantos017/restaurant/assets/62971277/2fd0ab71-e709-475b-9708-56d53e2ac247)
+
 
 ### 2 - Abra ele com seu editor de código, recomendo o InteliJ, 
 
-### 3 - por fim, se voce abriu com o InteliJ, pressione o botao de startar e deve ter esse resultado abaixo 
-![img.png](img.png)
-
-
+### 3 - por fim, se voce abriu com o InteliJ, entre na classe ```RestaurantApplication``` e pressione o botao de startar e deve ter esse resultado abaixo 
+![image](https://github.com/DgSantos017/restaurant/assets/62971277/f7e1f260-0fb8-45ce-9a8f-2e5037cf2ac2)
 
 
 # Arquitetura da API
 
 
-![img_1.png](img_1.png)
+![image](https://github.com/DgSantos017/restaurant/assets/62971277/f6c178d8-61fc-41d5-a4ad-ea0594b91b72)
+
 
 ### consumers
 -> Camada para o caso for necessário consumir algo externo
